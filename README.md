@@ -1,5 +1,4 @@
 1. Crie um programa o qual utiliza uma estrutura de repetição que permita ao usuário adicionar (nome e idade), remover um item pelo nome, remover o último item adicionado e exibir os itens  (isso deve ser feito usando um dicionário de dados  chamado pessoas). Utilize um menu de opções como por exemplo
-Cadastro de Pessoas
 - Adicionar novo item
 - Remover item por nome
 - Remover último item adicionado
